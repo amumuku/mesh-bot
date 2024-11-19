@@ -1,6 +1,6 @@
 # MESHCHAIN NETWOTK 
 MeshChain is a decentralized network designed to provide affordable, scalable compute power for AI workloads. We address the high costs and limited access to AI resources, making it easier for everyone to contribute and benefit from the power of AI.
-- [https://app.meshchain.ai/](https://app.meshchain.ai?ref=IOVO3G77Q0QQ)
+- [https://app.meshchain.ai/](https://app.meshchain.ai?ref=Z8R04V0UCZ89)
 
 ![mesh](image.png)
 
